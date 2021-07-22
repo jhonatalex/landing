@@ -1,0 +1,29 @@
+.banner {
+    background-image: url('../../images/1500x844_marketing_digital.jpg');
+    background-size: cover;
+    background-position: right;
+    color: white !important;
+    padding: 50px 0;
+
+
+}
+
+
+.banner >div {
+   padding: 30px;
+      
+}
+
+
+.banner h1 {
+margin: 0;
+
+    
+}
+
+.banner p {
+margin: 0;
+padding-bottom: 30px;
+
+    
+}
